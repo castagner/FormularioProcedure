@@ -1,0 +1,6 @@
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\bin\Debug\ProjModel.dll
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\bin\Debug\ProjModel.pdb
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\obj\Debug\ProjModel.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\obj\Debug\ProjModel.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\obj\Debug\ProjModel.dll
+C:\Users\aluno\Downloads\FormularioWeb\ProjModel\obj\Debug\ProjModel.pdb
